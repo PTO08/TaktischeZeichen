@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 108.3 108.3">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Grundfläche">
+    <rect class="st1" x="8.8" y="21.9" width="90.7" height="90.7"/>
+  </g>
+  <g id="Flächige_Fülung">
+    <circle class="st0" cx="54.1" cy="67.3" r="34"/>
+  </g>
+  <g id="Takt_Zeichen__x28_umgewandelt_x29_">
+    <path d="M54.1,32.5c-19.1,0-34.7,15.6-34.7,34.7s15.6,34.7,34.7,34.7,34.7-15.6,34.7-34.7-15.6-34.7-34.7-34.7ZM87.4,66.6h-32.6v-32.6c17.8.4,32.2,14.8,32.6,32.6ZM53.4,34v32.6H20.9c.4-17.8,14.8-32.2,32.6-32.6ZM20.9,68h32.6v32.6c-17.8-.4-32.2-14.8-32.6-32.6ZM54.9,100.5v-32.6h32.6c-.4,17.8-14.8,32.2-32.6,32.6Z"/>
+  </g>
+  <g id="Takt_Zeichen__x28_umgewandelt_x29_1" data-name="Takt_Zeichen__x28_umgewandelt_x29_">
+    <polygon points="101.2 47.5 54.1 7.2 7.1 47.5 6 46.2 54.1 4.9 102.3 46.2 101.2 47.5"/>
+  </g>
+</svg>
